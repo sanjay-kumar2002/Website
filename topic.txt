@@ -1,3 +1,8 @@
 SK WEBSITE
 
 Semma Idea
+<<<<<<< HEAD
+=======
+
+Okk Super da
+>>>>>>> sk
